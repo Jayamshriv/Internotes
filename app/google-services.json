@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "756398452954",
+    "project_id": "internotes-bae88",
+    "storage_bucket": "internotes-bae88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756398452954:android:4dbb65e7f9229b4b5975e3",
+        "android_client_info": {
+          "package_name": "com.example.internshalatask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756398452954-32poj17bf9ts9r00js83n8d2cjcavqrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.internshalatask",
+            "certificate_hash": "4f7486c9b1b6d410700cb66b158e4b89e2925777"
+          }
+        },
+        {
+          "client_id": "756398452954-j8324r028f4ouvu9sh061mftr5jt148t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCgH7rNzHmJgILP6BehUO6hRq0NXau1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756398452954-j8324r028f4ouvu9sh061mftr5jt148t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
